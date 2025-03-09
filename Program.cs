@@ -6,6 +6,7 @@
         {
             
             ChatBot_Logo.DisplayLogo();
+            ChatBot_Dialogue.ConfigureUser();
 
 
 

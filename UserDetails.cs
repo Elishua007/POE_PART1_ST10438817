@@ -11,7 +11,7 @@ namespace POE_ChatBot_ST10438817
 
         private string _userName;
 
-        public UserDetails(string userName)
+        public void SetUserName(string userName)
         {
             _userName = userName;  
         }
